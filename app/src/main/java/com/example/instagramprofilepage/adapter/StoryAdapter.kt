@@ -1,11 +1,11 @@
-package com.example.instagramprofilepage.Adapter
+package com.example.instagramprofilepage.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.instagramprofilepage.DataClass.StoryData
+import com.example.instagramprofilepage.dataClass.StoryData
 import com.example.instagramprofilepage.R
 import de.hdodenhof.circleimageview.CircleImageView
 

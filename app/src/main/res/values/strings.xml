@@ -2,4 +2,24 @@
     <string name="app_name">InstagramProfilePage</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="new_post">New Post</string>
+    <string name="gallery">Gallery</string>
+    <string name="home">Home</string>
+    <string name="add">Add</string>
+    <string name="message">Message</string>
+    <string name="profile">Profile</string>
+    <string name="pankajkumarsah">pankajKumarSah</string>
+    <string name="_132k">132k</string>
+    <string name="posts">posts</string>
+    <string name="_849">849</string>
+    <string name="followers">Followers</string>
+    <string name="_124k">124k</string>
+    <string name="following">following</string>
+    <string name="pankaj_gupta">Pankaj Gupta</string>
+    <string name="fitness_lover">fitness lover</string>
+    <string name="swimmer">swimmer</string>
+    <string name="badminton_player">badminton player</string>
+    <string name="lift_100_thats_all">lift 100% thats all</string>
+    <string name="edit_profile">edit profile</string>
 </resources>
