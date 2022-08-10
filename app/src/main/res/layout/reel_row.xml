@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="@dimen/mrgn_5"
+    >
+
+
+    <ImageView
+        android:id="@+id/testImage1"
+        android:layout_width="@dimen/ht_150"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/test_a"
+        android:scaleType="fitXY"/>
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ht_60">60dp</dimen>
+    <dimen name="ht_50">50dp</dimen>
+    <dimen name="wdth_120">120dp</dimen>
+    <dimen name="mrgn_10">10dp</dimen>
+    <dimen name="ht_30">30dp</dimen>
+    <dimen name="ht_40">40dp</dimen>
+    <dimen name="pad_4">4dp</dimen>
+    <dimen name="txt_22">22sp</dimen>
+    <dimen name="ht_350">350dp</dimen>
+    <dimen name="mrgn_8">8dp</dimen>
+    <dimen name="pad_2">2dp</dimen>
+    <dimen name="mrgn_12">12dp</dimen>
+    <dimen name="ht_65">65dp</dimen>
+    <dimen name="mrgn_20">20dp</dimen>
+    <dimen name="ht_25">25dp</dimen>
+    <dimen name="ht_150">150dp</dimen>
+    <dimen name="ht_90">90dp</dimen>
+</resources>

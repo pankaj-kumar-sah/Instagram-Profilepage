@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/reciever_image"
+        android:layout_marginTop="@dimen/mrgn_12"
+        android:layout_marginLeft="@dimen/mrgn_10"
+        android:layout_width="@dimen/ht_65"
+        android:layout_height="@dimen/ht_65"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/panku"
+
+        />
+    <TextView
+        android:id="@+id/reciever_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/reciever_image"
+        android:layout_marginTop="@dimen/mrgn_20"
+        android:layout_marginStart="@dimen/mrgn_10"
+        android:text="vgjnnjjnbk"/>
+
+    <TextView
+        android:id="@+id/reciever_last_seen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reciever_name"
+        android:layout_toEndOf="@id/reciever_image"
+        android:layout_marginStart="@dimen/mrgn_10"
+        android:text="vgjnnjjnbk"/>
+    <ImageView
+        android:id="@+id/photo_clicker"
+        android:layout_width="@dimen/ht_25"
+        android:layout_height="@dimen/ht_25"
+        android:src="@drawable/ic_photo_camera"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/mrgn_10"/>
+
+
+
+    </RelativeLayout>
+
+

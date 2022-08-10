@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.MessageFragment">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout_message"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ht_50">
+
+
+        <ImageView
+            android:id="@+id/instagram_Logo"
+            android:layout_width="@dimen/wdth_120"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/mrgn_10"
+            android:src="@drawable/instagram_logo" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/instagram_Logo"
+            android:src="@drawable/ic_baseline_arrow_drop_down_24" />
+
+        <ImageView
+            android:id="@+id/add_icon"
+            android:layout_width="@dimen/ht_40"
+            android:layout_height="@dimen/ht_40"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/mrgn_10"
+            android:padding="@dimen/pad_5"
+            android:src="@drawable/ic_add1" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/mrgn_10"
+            android:layout_toLeftOf="@id/add_icon"
+            android:src="@drawable/ic_video_call" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/relativeLayout_message"
+        android:orientation="vertical">
+
+        <SearchView
+            android:id="@+id/searchView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:iconifiedByDefault="false"
+            android:padding="@dimen/pad_4"
+            android:queryHint="@string/search" />
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView_message"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+
+</RelativeLayout>
