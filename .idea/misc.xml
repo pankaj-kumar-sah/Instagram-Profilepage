@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/activity_main2.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/fragment_home.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/fragment_main.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/fragment_message.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/fragment_post.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/fragment_profile.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/fragment_reel.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/layout/fragment_search1.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/menu/my_menu.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/Instagram-Profilepage/app/src/main/res/menu/search_menu.xml" value="0.19479166666666667" />
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/drawable/button_input.xml" value="0.1" />
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/drawable/ic_add.xml" value="0.1" />
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/drawable/ic_home.xml" value="0.1" />
@@ -21,7 +32,7 @@
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/layout/fragment_message.xml" value="0.18" />
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/layout/fragment_play.xml" value="0.125" />
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/layout/fragment_post.xml" value="0.12" />
-        <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/layout/fragment_profile.xml" value="0.14" />
+        <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/layout/fragment_profile.xml" value="0.109375" />
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/layout/fragment_profile_home.xml" value="0.1" />
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/layout/fragment_reel.xml" value="0.125" />
         <entry key="..\:/Users/psah/AndroidStudioProjects/InstagramProfilePage/app/src/main/res/layout/fragment_search1.xml" value="0.1" />
